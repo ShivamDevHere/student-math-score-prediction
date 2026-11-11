@@ -3,5 +3,9 @@ Name: project
 Version: 0.0.1
 Author: ShivamDevHere
 Author-email: shivamdevhere@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
 Dynamic: author
 Dynamic: author-email
+Dynamic: requires-dist
